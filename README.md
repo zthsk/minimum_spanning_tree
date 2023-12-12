@@ -27,4 +27,4 @@ To deploy this project on linux, run:
 
 ## Usage
 
-Utilize the provided C++ files to incorporate these algorithms into your project. The disjoint set, merge sort, and graph visualization functionalities are encapsulated within their respective header files for ease of integration. Refer to the example usage within the source files to understand how to employ these algorithms and visualize the resulting minimum spanning tree.
+Utilize the provided C++ files to incorporate these algorithms into your project. The disjoint set, merge sort, and graph visualization functionalities are encapsulated within their respective header files for ease of integration. Refer to the example usage within the source files to understand how to employ these algorithms and visualize the resulting minimum spanning tree. 
